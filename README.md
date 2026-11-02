@@ -593,13 +593,12 @@ ai-agent-whatsapp-n8n/
 | Archivo o carpeta | Descripción |
 |---|---|
 | `README.md` | Documentación del proyecto, arquitectura, decisiones técnicas, ROI y pruebas. |
-| `workflow-agente-whatsapp.json` | Workflow exportado desde n8n y saneado para su publicación, sin credenciales ni identificadores internos del entorno original. |
+| `workflow-agente-whatsapp.json` | Workflow exportado desde n8n, sin claves API ni tokens de autenticación. Incluye referencias de configuración que deben reemplazarse al importarlo. |
 | `datos/catalogo-productos.csv` | Catálogo de diez productos utilizado para reproducir las pruebas en Google Sheets. |
 | `capturas/` | Evidencias visuales de la arquitectura, ejecuciones, consultas y manejo de errores. |
 
 El archivo CSV permite reconstruir el catálogo de prueba sin necesitar acceso al documento original de Google Sheets.
 
-Las capturas y el workflow publicado deben revisarse para evitar la exposición de datos personales, identificadores internos y credenciales.
 
 ## 12. Conclusión
 
