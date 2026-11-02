@@ -362,7 +362,8 @@ Estos resultados corresponden a pruebas controladas del prototipo y no represent
 
 **Manejo de errores**
 
-![Contingencia](capturas/04-contingencia.png)
+![Contingencia](capturas/04-contingencia-a.png)
+![Contingencia](capturas/04-contingencia-b.png)
 
 **Consumo de OpenRouter**
 
