@@ -1,0 +1,11 @@
+id,producto,categoria,precio_clp,stock,caracteristicas
+P001,Mouse Logitech M185,Mouse,12990,15,Inalámbrico; receptor USB; óptico
+P002,Mouse Logitech M720,Mouse,34990,6,Inalámbrico; Bluetooth; multidispositivo
+P003,Teclado Redragon K552,Teclado,39990,8,Mecánico; conexión USB; iluminación RGB
+P004,Teclado Logitech K380,Teclado,32990,0,Inalámbrico; Bluetooth; compacto
+P005,Monitor Samsung 24 pulgadas,Monitor,119990,4,Full HD; HDMI; 75 Hz
+P006,Monitor LG 27 pulgadas,Monitor,179990,2,Full HD; HDMI; IPS
+P007,Webcam Logitech C270,Webcam,29990,0,HD 720p; USB; micrófono integrado
+P008,Webcam Logitech C920,Webcam,79990,5,Full HD 1080p; USB; micrófono integrado
+P009,Audífonos HyperX Cloud Stinger,Audífonos,49990,7,Micrófono; conexión 3.5 mm; diadema
+P010,Hub USB-C UGREEN 5 en 1,Accesorios,24990,12,USB-C; HDMI; USB 3.0
